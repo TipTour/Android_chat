@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/38350613a30e32335777dc8b1651c8b688c6e774/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3177437fb89939bf674dc3e8c90dc0d38fed02bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/555b832574b79e28443844529bb9b3f2cac9cc7e/output/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_aa241bc142cac1b11db39365cbdcdc2aece15c03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/23bc58a2bbeb47a575235a26e2eb6e6464485455/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a74ca3515415e1166eb0fbc52174855c7951595/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/7b130c0e72a0b4d65f61d737d4f3627284dae84c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_301a4ed6e88411d12c1ed4637c7cc8fb360f1f27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/9cc827cf72b71a1f5617abfc0e9f824190276569/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24bc8a0a15d90f081665967924a3e3d0b89054a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/555b832574b79e28443844529bb9b3f2cac9cc7e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da8d52fa5fcc3507177db1d0fe7c2b8b21a2a3f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/4a315a72451b8c47e5d380ddbcdca726e17dd77c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c79458241bbddd03e0a14340a71903255a240b85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/cd36bb2d158a8a5038194e70374f9fdc9231409e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_618dd8f482f1bd01aa02d29adb5931bfedbe6cff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/eecdf2e0163fd274bacbd44870ec86c97e923644/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e19c09295487dd914e131a2f929c9ff15b5be207/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/b08293aea6d3e3786e395a5902a7f37ac0e017ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec97ab1b2c91af743b6f0db3f2aaee8ff54ee452/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/2668f86127793423ff43fdfb722b4aa7067cf404/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa0d7ced4e4d3c9dc0d58d218d9a7e84eb9120e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/1c1d0701cd211d486e668736ef52f565cfa719c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_636ee8b1cee78afdc99ca28c7e4b2be964a1f330/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/51b062a9f37e10a1b67eba472c6ee9d4efb3e224/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fff973abe26c6b61db9b1866d7f82f761d42275c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/2c03cf5546bc4df57d9277ce7698475eaf99875e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c63e543c151fcac74352e66d04c1d7b5697b530/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/45a0be9bf12c9e18b920f7a807b96d273b978af5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8106ba319dabde33e61a1ea96db3ef5975db9eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/58c804f469f5a08069d11d5a6e2e32244521f161/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4620b261f3cb00afbfcf14432275c1e578730c87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/0e465c3f15f28183b9a33d3fc27313a8657e3d24/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e09b48a7288bcb1457a69000a8a75ee90c9f04d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/9e9ed1fb5c396823602ddf6608ef45df9c03a174/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ffdf2e3883a25f755ba456ccd5fb4a07223be96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/39f5dca1cda9a55d739e26638c64b419ede8cf83/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ddb2663c5f217f9ddec1cd46ac8ad6a43b6a5f28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/94030be873b2f1db55d9e9581b0f4a7dc1962225/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_16ddcf255248e0887ef7f5f3a50619b3d5309723/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/8361f6e3001bef46e4eb231e1a22839642ae1f02/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e4dd988b9b505a1e2ce69eda9c93a38fcae02a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/44eee7212df272fa1095b55196ca9c199b7d83c3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5fb88fd1a1cf56cb381d945a05908220009e3f2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/9064e7f2806aa433d4c84a0f8d10676fbaf1a3d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_815ea3cc26a456521b9d7ac0c81fc8e829ce5028/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_289e6a21242104370d901794fe1ca5118374e6ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/8a9b92a26929546ef1c2d0f2fdb9d8b0a5e2c321/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b518fe4440b58a3364dd2a0a3039d942c4a4f297/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/3ce48b47d2c9f6e66fbc995b4d7a1c6adb3db136/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_badee7a2e6fab7a1b2cd3f34e0737be82a2754cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/555b832574b79e28443844529bb9b3f2cac9cc7e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da8d52fa5fcc3507177db1d0fe7c2b8b21a2a3f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/19a24956c2293804cd1f44ca8e01f382a682686a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d3b33548390714dfd1efdd1281ef79e6b54abd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/78c0fdc21ecf24cdecde3cba5949b18f7c768327/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ffe30cd6350a00b15205d29b38f70d556835492/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/45a0be9bf12c9e18b920f7a807b96d273b978af5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8106ba319dabde33e61a1ea96db3ef5975db9eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/51b062a9f37e10a1b67eba472c6ee9d4efb3e224/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fff973abe26c6b61db9b1866d7f82f761d42275c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/c3e016d9d2287172b23c52d53a72e77bc201b800/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46c175f38646c36c2e56407430955f696a4e2457/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/eecdf2e0163fd274bacbd44870ec86c97e923644/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e19c09295487dd914e131a2f929c9ff15b5be207/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/b9318d496860d5c499b22cec425707275f76ad33/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa0ea96b55ce871e1bbeb76519847c333024a75f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/95b54639c91045face1883f730c9bbf14201446e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b75005af884af1fd288218fd776ab67c22d00e4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/7b130c0e72a0b4d65f61d737d4f3627284dae84c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_301a4ed6e88411d12c1ed4637c7cc8fb360f1f27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/94030be873b2f1db55d9e9581b0f4a7dc1962225/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_16ddcf255248e0887ef7f5f3a50619b3d5309723/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/35acd4ce1e222f62c589bd07a426ae194c496324/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01cfa3e1f2294b79ab183b3a6c01c07d7b826552/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/2c03cf5546bc4df57d9277ce7698475eaf99875e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c63e543c151fcac74352e66d04c1d7b5697b530/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/2668f86127793423ff43fdfb722b4aa7067cf404/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa0d7ced4e4d3c9dc0d58d218d9a7e84eb9120e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/e3307110d5ebf06684c68c880d25f448c527d17d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b76dae9df4ac37d81d4525dd98725e7e23ce9ac2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/dc9441cc9c6af50accbe5bd2c1697fcf157e2c96/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_762a3b917a7a35df327bdc05baf4b311269404b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/19a24956c2293804cd1f44ca8e01f382a682686a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d3b33548390714dfd1efdd1281ef79e6b54abd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/8361f6e3001bef46e4eb231e1a22839642ae1f02/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e4dd988b9b505a1e2ce69eda9c93a38fcae02a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/3ce48b47d2c9f6e66fbc995b4d7a1c6adb3db136/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_badee7a2e6fab7a1b2cd3f34e0737be82a2754cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/4a2c0939b9d37b208ee725d049c319e843ab65a9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ea1f9dc1e06d874a369f552f302a110827dc3e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/7e75a1feb8883adada9040a99c9e8ce156417458/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5dcefa5eb13c0c9c4db5ca6230a7a52081f80dd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/44eee7212df272fa1095b55196ca9c199b7d83c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5fb88fd1a1cf56cb381d945a05908220009e3f2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/8fa9af08e589a397db91bcedb6b0acc27219d85c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6bd699e4a7ad4d26586cff1e36592c06123503f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/c3e016d9d2287172b23c52d53a72e77bc201b800/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46c175f38646c36c2e56407430955f696a4e2457/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/c34a6fe78e42a43babbafa2770fffc993d185f51/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43220e86c8cadf5fa8b5c82e4f5a2e12de28886e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/45a7a2de036bbb1f984de40e5d0fa2be5699053a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_922dedbf45a6ad1f735f95cec61d27d4ba7c99c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/b4db6bc86fffe9c1b593d536174278e722526b03/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dad9b523dbfd17010920bb4e7064e169717ac688/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/fe81efa1a991c46e50cc0545b814eb29569c9d49/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c4bf24f21621d887f03f856af7de50a3ec8e2f1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/8a9b92a26929546ef1c2d0f2fdb9d8b0a5e2c321/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b518fe4440b58a3364dd2a0a3039d942c4a4f297/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/9064e7f2806aa433d4c84a0f8d10676fbaf1a3d0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_815ea3cc26a456521b9d7ac0c81fc8e829ce5028/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/ddea5aa9f257a945be63af717749e74f928ba064/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_853f73b6fb796a1b097c6971f80bd98e3879e486/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5719c63c7a985cbd68b4fdf7f12b1504a62e012e">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4d23148c614617886ce8d60c8e0f251ce75e70a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/e0b5173c5735c6171d1d360129624e8531a658bc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6473e946251f595b14fd55ce2129b3be7a3e643/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/1e6c55930478e6a067002ef3d14466f6c13f1211/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ac639db6bc54a733e77d632d9568df98c89b95d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/95b54639c91045face1883f730c9bbf14201446e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b75005af884af1fd288218fd776ab67c22d00e4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/dc9441cc9c6af50accbe5bd2c1697fcf157e2c96/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_762a3b917a7a35df327bdc05baf4b311269404b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_cccd0c527f213fa38762a92a08e66443b3f08ff7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/e3307110d5ebf06684c68c880d25f448c527d17d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b76dae9df4ac37d81d4525dd98725e7e23ce9ac2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/e0b5173c5735c6171d1d360129624e8531a658bc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6473e946251f595b14fd55ce2129b3be7a3e643/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/3f343d4147b2d8e72a86282f908ec0b61a218c71/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_577a9024240ab910d7012fe1f0df25163e8fb975/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/35acd4ce1e222f62c589bd07a426ae194c496324/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01cfa3e1f2294b79ab183b3a6c01c07d7b826552/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/4a2c0939b9d37b208ee725d049c319e843ab65a9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ea1f9dc1e06d874a369f552f302a110827dc3e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/7e75a1feb8883adada9040a99c9e8ce156417458/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5dcefa5eb13c0c9c4db5ca6230a7a52081f80dd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/a4744bee2a282103e44bfd756858a22e490346b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c85b3e707e0ecedbc8a1d9a91093425f5846a0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/48f11fa3905f75b51d90337d7c3ff4014ccd4e47/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f02c8a9aa100eab8b75c4803249aea28712877b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/e3307110d5ebf06684c68c880d25f448c527d17d/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_497dc2eee0fe3a5fe1e9a723c1986c711437350c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/f26753e59998aadcabe17ffd0bbc8f04db60d1df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27ef81e321e34ef512a7c612e93b9657e140eb8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/e541424f54cb9cb4f13ab07d661e26952711b9e0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83576fa16bfa2e98dfef125705cbd439cfad7df9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/8202661576be98fa0677321ee114e14848d685ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9401286464e1445d41aae0ab5beed595943fc9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/45a7a2de036bbb1f984de40e5d0fa2be5699053a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_922dedbf45a6ad1f735f95cec61d27d4ba7c99c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/8202661576be98fa0677321ee114e14848d685ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9401286464e1445d41aae0ab5beed595943fc9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/b5db74560595183b3462fc5085420887db8cfedf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50463269156c81ed85d98c510bb4ee1eb4c9c56a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/23bc58a2bbeb47a575235a26e2eb6e6464485455/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a74ca3515415e1166eb0fbc52174855c7951595/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/4a315a72451b8c47e5d380ddbcdca726e17dd77c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c79458241bbddd03e0a14340a71903255a240b85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/e541424f54cb9cb4f13ab07d661e26952711b9e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83576fa16bfa2e98dfef125705cbd439cfad7df9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/ddea5aa9f257a945be63af717749e74f928ba064/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_853f73b6fb796a1b097c6971f80bd98e3879e486/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/1c1d0701cd211d486e668736ef52f565cfa719c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_636ee8b1cee78afdc99ca28c7e4b2be964a1f330/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/8fa9af08e589a397db91bcedb6b0acc27219d85c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6bd699e4a7ad4d26586cff1e36592c06123503f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/555b832574b79e28443844529bb9b3f2cac9cc7e/output/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_aa241bc142cac1b11db39365cbdcdc2aece15c03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/1e6c55930478e6a067002ef3d14466f6c13f1211/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ac639db6bc54a733e77d632d9568df98c89b95d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/f6ba462ec45907a2062e259d0a6595e9309d659a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_444c9f28a3312d70ca26999b82f8347ff596068d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/9cc827cf72b71a1f5617abfc0e9f824190276569/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24bc8a0a15d90f081665967924a3e3d0b89054a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/cd36bb2d158a8a5038194e70374f9fdc9231409e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_618dd8f482f1bd01aa02d29adb5931bfedbe6cff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/b08293aea6d3e3786e395a5902a7f37ac0e017ef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec97ab1b2c91af743b6f0db3f2aaee8ff54ee452/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/b9318d496860d5c499b22cec425707275f76ad33/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa0ea96b55ce871e1bbeb76519847c333024a75f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/48f11fa3905f75b51d90337d7c3ff4014ccd4e47/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f02c8a9aa100eab8b75c4803249aea28712877b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/3f343d4147b2d8e72a86282f908ec0b61a218c71/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_577a9024240ab910d7012fe1f0df25163e8fb975/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/9e9ed1fb5c396823602ddf6608ef45df9c03a174/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ffdf2e3883a25f755ba456ccd5fb4a07223be96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/58c804f469f5a08069d11d5a6e2e32244521f161/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4620b261f3cb00afbfcf14432275c1e578730c87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/b4db6bc86fffe9c1b593d536174278e722526b03/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dad9b523dbfd17010920bb4e7064e169717ac688/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/0e465c3f15f28183b9a33d3fc27313a8657e3d24/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e09b48a7288bcb1457a69000a8a75ee90c9f04d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/b5db74560595183b3462fc5085420887db8cfedf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50463269156c81ed85d98c510bb4ee1eb4c9c56a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/e3307110d5ebf06684c68c880d25f448c527d17d/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_497dc2eee0fe3a5fe1e9a723c1986c711437350c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_cccd0c527f213fa38762a92a08e66443b3f08ff7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/a4744bee2a282103e44bfd756858a22e490346b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c85b3e707e0ecedbc8a1d9a91093425f5846a0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/39f5dca1cda9a55d739e26638c64b419ede8cf83/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ddb2663c5f217f9ddec1cd46ac8ad6a43b6a5f28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/c34a6fe78e42a43babbafa2770fffc993d185f51/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43220e86c8cadf5fa8b5c82e4f5a2e12de28886e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kangcholmin/.android/build-cache/f26753e59998aadcabe17ffd0bbc8f04db60d1df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="/Users/kangcholmin/Downloads/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27ef81e321e34ef512a7c612e93b9657e140eb8f/classes.dex" />
+    </item>
+
+</items>
